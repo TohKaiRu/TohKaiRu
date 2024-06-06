@@ -6,7 +6,7 @@
   🔭 A degree computer science student currently studying in Multimedia University.<br><br>
   🌱 I’m currently learning about data science, algorithm design, data analysis & machine learning.<br><br>
   🤔 I’m looking for help with improving my skills in data science.<br><br>
-  📫 How to reach me: kairu.toh@gmail.com
+  📫 How to reach me: <a href="mailto:kairu.toh@gmail.com">kairu.toh@gmail.com</a>
 </div>
 
 <br clear="all">
